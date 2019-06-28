@@ -119,3 +119,9 @@ FUNÇÃO
 	098 - Função de Contador
 	099 - Função que descobre maior
 	100 - Funções para sortear e somar
+	101 - Funções para votação
+	102 - Função para Fatorial
+	103 - Ficha de Jogador
+	104 - Validando entrada de dados em Python
+	105 - Analisando e gerando Dicionários
+	106 - Sistema interativo de ajuda em Python
