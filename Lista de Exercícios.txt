@@ -125,3 +125,11 @@ FUNÇÃO
 	104 - Validando entrada de dados em Python
 	105 - Analisando e gerando Dicionários
 	106 - Sistema interativo de ajuda em Python
+
+MÓDULOS E PACOTES
+	107 - Exercitando módulos em Python
+	108 - Formatando Moedas em Python
+	109 - Formatando Moedas em Python 2
+	110 - Reduzindo ainda mais seu programa
+	111 - Transformando módulos em pacotes
+	112 - Entrada de dados monetários
